@@ -105,7 +105,7 @@ function generatePassword() {
   console.log(myGaruntee);
  
   for (var i=0; i < passwordLength; i++) {
-    myPassword += myGaruntee.charAt(Math.floor(Math.random() * passwordLength));
+    myPassword += myGaruntee.charAt(Math.floor(Math.random() * myGaruntee.length));
     console.log(`${i},${myPassword}`)
   }
   return myPassword
