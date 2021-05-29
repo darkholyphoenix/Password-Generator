@@ -40,7 +40,7 @@ Its your selection and then generates the password from that
 
 ### Screenshot #1:
 
-
+![Screenshot (13)](https://user-images.githubusercontent.com/47751469/120083311-758c9000-c08d-11eb-9c48-7d19ea73bbb7.png)
 
 
 #### Website: https://darkholyphoenix.github.io/Password-Generator/
